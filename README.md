@@ -26,3 +26,8 @@ Modules Needed:
 ![RC522 RFID module wiring diagram](https://user-images.githubusercontent.com/45021778/229663750-f8b7d179-de1a-4b4f-b9ce-00a7284682e8.png)
 ![RGB led wiring diagram](https://user-images.githubusercontent.com/45021778/229663751-70bc0935-d097-49fc-bf55-8262d018aa31.png)
 ![stepper motor 28BYJ-48 wiring diagram](https://user-images.githubusercontent.com/45021778/229663754-14ef7e4c-13dc-4037-b8f0-b0edd1e2bd80.png)
+
+
+PWM exclamation:
+
+![pwm exclamation](https://user-images.githubusercontent.com/45021778/229673783-e52b21b5-8ee6-435b-be63-2d811c9d5463.png)
